@@ -19,7 +19,7 @@
         }
     ],
     "require":      {
-        "knplabs/knp-menu":         "2.0.*",
+        "knplabs/knp-menu":         "1.2.*",
         "symfony/framework-bundle": "~2.0"
     },
     "autoload":     {
@@ -28,7 +28,7 @@
     "target-dir": "Knp/Bundle/MenuBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "1.2.x-dev"
         }
     },
     "minimum-stability": "dev"
